@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\Scripts\Class 7 - Enemy Wrap-up and Abilities\HealthGlobe.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Scripts\FSM Build\PursuingState.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\MeleeAttackCA.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\Scripts\ObjectScripts\DoorOpen.cs" />
     <Compile Include="Assets\Scripts\Class 5 - Fireball and Supporting Systems\MenuMusic.cs" />
+    <Compile Include="Assets\Scripts\Class 7 - Enemy Wrap-up and Abilities\EffectsManager.cs" />
     <Compile Include="Assets\Scripts\Class 2 - Core Systems and Menus\JamGameManager.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\EquippableAbility.cs" />
     <Compile Include="Assets\Scripts\Bootstrapper.cs" />
@@ -90,6 +92,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+    <Compile Include="Assets\Scripts\Class 6 - Enemies\PlayerCombat.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\ClassSkill.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\PlayerCharacterSheet.cs" />
     <Compile Include="Assets\Scripts\FSM Build\SkeletonStateBase.cs" />
@@ -120,10 +123,12 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\Scripts\ObjectScripts\CollectibleScript.cs" />
+    <Compile Include="Assets\Scripts\Class 7 - Enemy Wrap-up and Abilities\EventsManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\CombatActor.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\Scripts\FSM Build\AttackingState.cs" />
+    <Compile Include="Assets\Scripts\Class 7 - Enemy Wrap-up and Abilities\UIManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />

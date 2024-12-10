@@ -22,6 +22,12 @@ public class FireballCA : CombatActor
         shootDirection = newDirection;
     }
 
+    protected override void HitReceiver(CombatReceiver target)
+    {
+        base.HitReceiver(target);
+        EffectsManager.instance.PlaySmallBoom(transform.position, 1);
+    }
+
     protected override void OnTriggerEnter(Collider other)
     {
         //base.OnTriggerEnter(other);

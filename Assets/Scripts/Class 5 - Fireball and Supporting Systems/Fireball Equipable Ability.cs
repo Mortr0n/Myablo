@@ -9,11 +9,13 @@ public class FireballEquipableAbility : EquippableAbility
 
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
+        Physics.queriesHitTriggers = false;
 
         if(Physics.Raycast(ray, out hit))
         {
             if (hit.collider.gameObject.GetComponent<Clickable>() || Input.GetKey(KeyCode.LeftShift))
             {
+                //if(hit.collider.isTrigger) { return; } // don't attack trigger only colliders
                 SpawnEquippedAttack(hit.point);
                 myPlayer.Movement().MoveToLocation(myPlayer.transform.position);
                 //AudioManager.instance.PlaySceneSwitchSwooshSFX();

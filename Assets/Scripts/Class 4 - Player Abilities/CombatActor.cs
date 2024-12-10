@@ -18,7 +18,7 @@ public class CombatActor : MonoBehaviour
 
     protected virtual void HitReceiver(CombatReceiver target)
     {
-        //Debug.Log("Test Hit");
+        Debug.Log($"Test Hit {target}");
         target.TakeDamage(damage);
     }
 

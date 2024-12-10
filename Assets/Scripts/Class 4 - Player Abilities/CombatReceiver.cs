@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CombatReceiver : Clickable
 {
-    protected int factionID = 0; //splitting combat system into factions to allow this to be used for all
+    [SerializeField] protected int factionID = 0; //splitting combat system into factions to allow this to be used for all
 
     [SerializeField] protected float maxHP = 35;
     protected float currentHP;
@@ -23,10 +23,13 @@ public class CombatReceiver : Clickable
         factionID = newID;
     } 
 
-    public int GetFactionID() { return factionID; }
+    public int GetFactionID() {
+        Debug.Log("CombatReceiver get factionID");
+        return factionID; }
 
     public virtual void TakeDamage(float amount)
     {
+        Debug.Log($"Taking Damage {amount}");
         if (!alive) { return; }
 
         currentHP -= amount;

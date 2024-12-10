@@ -1,9 +1,10 @@
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Clickable
 {
     [SerializeField] EquippableAbility ability1;
     [SerializeField] EquippableAbility ability2;
+    bool alive = true;
 
     int factionID = 1;
 
@@ -18,9 +19,15 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if (!alive)
+        {
+            return;
+        }
         if (Input.GetMouseButtonDown(0) && ability1 != null) UseAbility1();
         if (Input.GetMouseButtonDown(1) && ability2 != null) UseAbility2();
     }
+
+    
 
     void UseAbility1()
     {
@@ -47,7 +54,20 @@ public class PlayerController : MonoBehaviour
     }
     public int GetFactionID()
     {
+        Debug.Log("Player GetFactionID");
         return factionID;
     }
     #endregion
+    
+    public void TriggerDeath()
+    {
+        alive = false;
+        GetAnimator().TriggerDeath();
+    }
+
+    public void TriggerRevive()
+    {
+        alive = true;
+        GetAnimator().TriggerRevive();
+    }
 }
