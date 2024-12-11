@@ -21,7 +21,7 @@ public class SkeletonFSMAI : BasicAI
     {
         Debug.Log("Start FSMAI");
         startPosition = transform.position;
-        ChageState(new WanderingState(maxWanderDistance, startPosition));
+        ChangeState(new WanderingState(maxWanderDistance, startPosition));
     }
 
 
@@ -33,7 +33,7 @@ public class SkeletonFSMAI : BasicAI
         }
     }
 
-    public void ChageState(SkeletonStateBase newState)
+    public void ChangeState(SkeletonStateBase newState)
     {
         if (currentState != null && newState != null)
         {
@@ -45,21 +45,21 @@ public class SkeletonFSMAI : BasicAI
 
     public void TriggerWandering()
     {
-        ChageState(new WanderingState(maxWanderDistance, startPosition));
+        ChangeState(new WanderingState(maxWanderDistance, startPosition));
     }
 
     public void TriggerPursuing()
     {
-        ChageState(new PursuingState());
+        ChangeState(new PursuingState());
     }
 
     public void TriggerAttacking()
     {
-        ChageState(new AttackingState());
+        ChangeState(new AttackingState());
     }
 
     public override void TriggerDeath()
     {
-        ChageState(new DeadState());   
+        ChangeState(new DeadState());   
     }
 }
