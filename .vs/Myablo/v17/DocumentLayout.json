@@ -3,16 +3,68 @@
   "WorkspaceRootPath": "C:\\IGA Build\\IGACourse\\Myablo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|c:\\iga build\\igacourse\\myablo\\assets\\scripts\\fsm build\\skeletonfsmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm build\\skeletonfsmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|c:\\iga build\\igacourse\\myablo\\assets\\scripts\\class 8 - character stats\\characterstatpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 8 - character stats\\characterstatpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.ugui\\Editor\\TMP\\TMP_BaseEditorPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui\\Editor\\TMP\\TMP_BaseEditorPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 3 - player movement\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 3 - player movement\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|c:\\iga build\\igacourse\\myablo\\assets\\scripts\\class 6 - enemies\\skeletonai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 7 - enemy wrap-up and abilities\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 7 - enemy wrap-up and abilities\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraphResourceRegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraphResourceRegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 4 - player abilities\\playercharactersheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 4 - player abilities\\playercharactersheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 7 - enemy wrap-up and abilities\\eventsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 7 - enemy wrap-up and abilities\\eventsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 4 - player abilities\\classskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 4 - player abilities\\classskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 6 - enemies\\skeletonai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 6 - enemies\\skeletonai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 7 - enemy wrap-up and abilities\\xpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 7 - enemy wrap-up and abilities\\xpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 5 - fireball and supporting systems\\fireball equipable ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 5 - fireball and supporting systems\\fireball equipable ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 6 - enemies\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 6 - enemies\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 7 - enemy wrap-up and abilities\\managlobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 7 - enemy wrap-up and abilities\\managlobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\fsm build\\skeletonfsmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm build\\skeletonfsmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\fsm build\\skeletonstatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 6 - enemies\\basicai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 6 - enemies\\basicai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 6 - enemies\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 6 - enemies\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 4 - player abilities\\meleeattackca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 7 - enemy wrap-up and abilities\\healthglobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 7 - enemy wrap-up and abilities\\healthglobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 7 - enemy wrap-up and abilities\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 7 - enemy wrap-up and abilities\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 7 - enemy wrap-up and abilities\\eventsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 7 - enemy wrap-up and abilities\\eventsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 4 - player abilities\\combatactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,20 +111,12 @@
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 4 - player abilities\\equippableability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 5 - fireball and supporting systems\\fireball equipable ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 5 - fireball and supporting systems\\fireball equipable ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 3 - player movement\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 3 - player movement\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\objectscripts\\collectiblescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectscripts\\collectiblescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 4 - player abilities\\playercharactersheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 4 - player abilities\\playercharactersheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 5 - fireball and supporting systems\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,20 +147,12 @@
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 3 - player movement\\basicanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 4 - player abilities\\barrelcr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 4 - player abilities\\barrelcr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 3 - player movement\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 3 - player movement\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\class 4 - player abilities\\classskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class 4 - player abilities\\classskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E158141-2546-375A-B471-F929B0E57FF6}|Assembly-CSharp.csproj|C:\\IGA Build\\IGACourse\\Myablo\\assets\\scripts\\playerscripts\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -173,11 +197,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TMP_BaseEditorPanel.cs",
+              "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.ugui\\Editor\\TMP\\TMP_BaseEditorPanel.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Editor\\TMP\\TMP_BaseEditorPanel.cs",
+              "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.ugui\\Editor\\TMP\\TMP_BaseEditorPanel.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui\\Editor\\TMP\\TMP_BaseEditorPanel.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAmwL4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:55:07.355Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CharacterStatPanel.cs",
+              "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 8 - Character Stats\\CharacterStatPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Class 8 - Character Stats\\CharacterStatPanel.cs",
+              "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 8 - Character Stats\\CharacterStatPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Class 8 - Character Stats\\CharacterStatPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:36:11.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RenderGraphResourceRegistry.cs",
+              "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraphResourceRegistry.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraphResourceRegistry.cs",
+              "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraphResourceRegistry.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraphResourceRegistry.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAmwLAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:34:49.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RenderGraph.cs",
+              "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraph.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraph.cs",
+              "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraph.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.core\\Runtime\\RenderGraph\\RenderGraph.cs",
+              "ViewState": "AgIAAMgEAAAAAAAAAAAAAOgEAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:29:50.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XPBar.cs",
+              "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\XPBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\XPBar.cs",
+              "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\XPBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\XPBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:37:14.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManaGlobe.cs",
+              "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\ManaGlobe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\ManaGlobe.cs",
+              "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\ManaGlobe.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\ManaGlobe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:08:03.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "SkeletonFSMAI.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\FSM Build\\SkeletonFSMAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM Build\\SkeletonFSMAI.cs",
@@ -185,12 +282,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FSM Build\\SkeletonFSMAI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwCMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:39:56.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T02:39:56.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "HealthGlobe.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\HealthGlobe.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\HealthGlobe.cs",
@@ -202,31 +298,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\UIManager.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\UIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA0wCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T01:51:33.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "EventsManager.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\EventsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\EventsManager.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\EventsManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\EventsManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T01:45:01.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "EffectsManager.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\EffectsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 7 - Enemy Wrap-up and Abilities\\EffectsManager.cs",
@@ -238,19 +334,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "PlayerCombat.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 6 - Enemies\\PlayerCombat.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 6 - Enemies\\PlayerCombat.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 6 - Enemies\\PlayerCombat.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class 6 - Enemies\\PlayerCombat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T00:36:49.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "WanderingState.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\FSM Build\\WanderingState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM Build\\WanderingState.cs",
@@ -262,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "SkeletonStateBase.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\FSM Build\\SkeletonStateBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM Build\\SkeletonStateBase.cs",
@@ -270,12 +366,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FSM Build\\SkeletonStateBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T21:16:42.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T21:16:42.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "Compiled-Nature-Tree Creator Leaves.shader",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Temp\\Compiled-Nature-Tree Creator Leaves.shader",
               "RelativeDocumentMoniker": "Temp\\Compiled-Nature-Tree Creator Leaves.shader",
@@ -287,20 +382,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "SkeletonAI.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 6 - Enemies\\SkeletonAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 6 - Enemies\\SkeletonAI.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 6 - Enemies\\SkeletonAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class 6 - Enemies\\SkeletonAI.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAswLwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAUwLUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T01:30:31.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T01:30:31.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "BasicAI.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 6 - Enemies\\BasicAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 6 - Enemies\\BasicAI.cs",
@@ -308,12 +402,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Class 6 - Enemies\\BasicAI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T01:13:18.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T01:13:18.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "EnemyCombat.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 6 - Enemies\\EnemyCombat.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 6 - Enemies\\EnemyCombat.cs",
@@ -325,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "EnemyAnimator.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 6 - Enemies\\EnemyAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 6 - Enemies\\EnemyAnimator.cs",
@@ -337,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "GameMusic.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\GameMusic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\GameMusic.cs",
@@ -349,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "MenuMusic.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\MenuMusic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\MenuMusic.cs",
@@ -361,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\AudioManager.cs",
@@ -373,19 +466,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "Fireball Equipable Ability.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\Fireball Equipable Ability.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\Fireball Equipable Ability.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\Fireball Equipable Ability.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\Fireball Equipable Ability.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T01:11:43.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "FireballCA.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\FireballCA.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 5 - Fireball and Supporting Systems\\FireballCA.cs",
@@ -397,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "MeleeAttackCA.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\MeleeAttackCA.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\MeleeAttackCA.cs",
@@ -409,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "BarrelCR.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\BarrelCR.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\BarrelCR.cs",
@@ -421,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "EquippableAbility.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\EquippableAbility.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\EquippableAbility.cs",
@@ -433,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "EquipableAbility.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\EquipableAbility.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\EquipableAbility.cs",
@@ -445,19 +538,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 9,
               "Title": "ClassSkill.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\ClassSkill.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\ClassSkill.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\ClassSkill.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class 4 - Player Abilities\\ClassSkill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T00:52:09.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "CombatActor.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\CombatActor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\CombatActor.cs",
@@ -469,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "CombatReceiver.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\CombatReceiver.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\CombatReceiver.cs",
@@ -481,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "Clickable.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\Clickable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\Clickable.cs",
@@ -493,19 +586,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
               "Title": "PlayerCharacterSheet.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\PlayerCharacterSheet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 4 - Player Abilities\\PlayerCharacterSheet.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 4 - Player Abilities\\PlayerCharacterSheet.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class 4 - Player Abilities\\PlayerCharacterSheet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwHUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T00:11:08.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "PlayerAnimator.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 3 - Player Movement\\PlayerAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 3 - Player Movement\\PlayerAnimator.cs",
@@ -517,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "BasicAnimator.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 3 - Player Movement\\BasicAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 3 - Player Movement\\BasicAnimator.cs",
@@ -529,20 +622,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 3 - Player Movement\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 3 - Player Movement\\PlayerController.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 3 - Player Movement\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class 3 - Player Movement\\PlayerController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAwwEAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:37:52.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T01:37:52.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 3 - Player Movement\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 3 - Player Movement\\PlayerMovement.cs",
@@ -554,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
@@ -566,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "CollectibleScript.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\ObjectScripts\\CollectibleScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectScripts\\CollectibleScript.cs",
@@ -578,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "PlayerTest.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\PlayerScripts\\PlayerTest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScripts\\PlayerTest.cs",
@@ -590,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 3 - Player Movement\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 3 - Player Movement\\CameraController.cs",
@@ -602,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "DoorOpen.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\ObjectScripts\\DoorOpen.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectScripts\\DoorOpen.cs",
@@ -614,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "Compiled-Standard (Specular setup).shader",
               "DocumentMoniker": "C:\\Users\\cmsl4\\Documents\\IGACourse\\Myablo\\Temp\\Compiled-Standard (Specular setup).shader",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\cmsl4\\Documents\\IGACourse\\Myablo\\Temp\\Compiled-Standard (Specular setup).shader",
@@ -626,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "MenuButton.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 2 - Core Systems and Menus\\MenuButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 2 - Core Systems and Menus\\MenuButton.cs",
@@ -638,19 +730,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 1,
               "Title": "Bootstrapper.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Bootstrapper.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bootstrapper.cs",
               "ToolTip": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Bootstrapper.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bootstrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T01:54:13.323Z"
+              "WhenOpened": "2024-11-21T01:54:13.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "SceneChanger.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 2 - Core Systems and Menus\\SceneChanger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 2 - Core Systems and Menus\\SceneChanger.cs",
@@ -662,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "JamGameManager.cs",
               "DocumentMoniker": "C:\\IGA Build\\IGACourse\\Myablo\\Assets\\Scripts\\Class 2 - Core Systems and Menus\\JamGameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class 2 - Core Systems and Menus\\JamGameManager.cs",

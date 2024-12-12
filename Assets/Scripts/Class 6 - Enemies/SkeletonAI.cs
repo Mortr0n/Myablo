@@ -22,6 +22,11 @@ public class SkeletonAI : BasicAI
     [SerializeField] GameObject attackPrefab;
 
 
+    // Death Variables
+    [SerializeField] float experienceValue = 45;
+
+
+
     private void Start()
     {
         startPosition = transform.position;
@@ -171,6 +176,9 @@ public class SkeletonAI : BasicAI
     public override void TriggerDeath()
     {
         base.TriggerDeath();
+
+        //TODO: Add Experience
+        EventsManager.instance.onExperienceGranted.Invoke(experienceValue);
     }
     #endregion
 

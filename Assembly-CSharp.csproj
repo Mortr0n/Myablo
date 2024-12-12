@@ -84,6 +84,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerTest.cs" />
+    <Compile Include="Assets\Scripts\Class 7 - Enemy Wrap-up and Abilities\XPBar.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\CombatReceiver.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
@@ -94,6 +95,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Scripts\Class 6 - Enemies\PlayerCombat.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\ClassSkill.cs" />
+    <Compile Include="Assets\Scripts\Class 8 - Character Stats\CharacterStatPanel.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\PlayerCharacterSheet.cs" />
     <Compile Include="Assets\Scripts\FSM Build\SkeletonStateBase.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
@@ -117,6 +119,7 @@
     <Compile Include="Assets\Scripts\Class 5 - Fireball and Supporting Systems\AudioManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\Scripts\Class 8 - Character Stats\PlayerHUD.cs" />
     <Compile Include="Assets\Scripts\Class 6 - Enemies\EnemyAnimator.cs" />
     <Compile Include="Assets\Scripts\Class 3 - Player Movement\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Class 5 - Fireball and Supporting Systems\FireballCA.cs" />
@@ -136,6 +139,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Scripts\Class 4 - Player Abilities\BarrelCR.cs" />
     <Compile Include="Assets\Scripts\Class 2 - Core Systems and Menus\SceneChanger.cs" />
+    <Compile Include="Assets\Scripts\Class 7 - Enemy Wrap-up and Abilities\ManaGlobe.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -52,6 +52,10 @@ public class PlayerController : Clickable
     {
         return GetComponent<PlayerCharacterSheet>();
     }
+    public PlayerCombat Combat()
+    {
+        return GetComponent<PlayerCombat>();
+    }
     public int GetFactionID()
     {
         Debug.Log("Player GetFactionID");

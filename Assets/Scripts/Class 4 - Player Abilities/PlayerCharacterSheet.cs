@@ -15,6 +15,27 @@ public class PlayerCharacterSheet : MonoBehaviour
     float currentMana = 35;
     float maxMana = 35;
 
+    int statPointsToSpend = 0;
+    int skillPointsToSpend = 0;
+
+    public static PlayerCharacterSheet instance;
+    private void Awake()
+    {
+        if (instance == null) instance = this;
+        else Destroy(gameObject); //TODO:  do I need?
+    }
+
+    #region Listeners
+    private void Start()
+    {
+        EventsManager.instance.onExperienceGranted.AddListener(AddExperience);
+    }
+    private void OnDestroy()
+    {
+        EventsManager.instance.onExperienceGranted.RemoveListener(AddExperience);
+    }
+    #endregion
+
     #region Levels and Experience
     public int GetLevel()
     {
@@ -29,6 +50,24 @@ public class PlayerCharacterSheet : MonoBehaviour
     public void AddExperience(float amount)
     {
         experience += amount;
+        if (experience >= GetExperienceToNextLevel())
+        {
+            LevelUp();
+        }
+
+        EventsManager.instance.onExperienceUpdated.Invoke(experience / GetExperienceToNextLevel());
+    }
+    float GetExperienceToNextLevel()
+    {
+        return (100 * level);
+    }
+    void LevelUp()
+    {
+        experience -= GetExperienceToNextLevel();
+        level++;
+        statPointsToSpend += 5;
+        skillPointsToSpend++;
+        EventsManager.instance.onPlayerLeveledUp.Invoke();
     }
     #endregion
 
@@ -50,7 +89,48 @@ public class PlayerCharacterSheet : MonoBehaviour
     {
         return maxMana;
     }
-#endregion
+    #endregion
 
-    
+    #region Stat and Skill Getters
+    public int GetStatPointsToSpend()
+    {
+        return statPointsToSpend;
+    }
+    public int GetSkillPointsToSpend()
+    {
+        return skillPointsToSpend;
+    }
+    #endregion
+
+    #region Stat Point Spending
+    bool PointSpendSuccessful()
+    {
+        if(statPointsToSpend <= 0) return false;
+        else
+        {
+            statPointsToSpend--;
+            return true;
+        }
+    }
+    public void BuyStrengthPoint()
+    {
+        if (PointSpendSuccessful()) strength++;
+        EventsManager.instance.onStatPointSpent.Invoke();
+    }
+    public void BuyDexterityPoint()
+    {
+        if (PointSpendSuccessful()) dexterity++;
+        EventsManager.instance.onStatPointSpent.Invoke();
+    }
+    public void BuyVitalityPoint()
+    {
+        if (PointSpendSuccessful()) vitality++;
+        EventsManager.instance.onStatPointSpent.Invoke();
+    }
+    public void BuyEnergyPoint()
+    {
+        if (PointSpendSuccessful()) energy++;
+        EventsManager.instance.onStatPointSpent.Invoke();
+    }
+    #endregion
 }

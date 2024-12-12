@@ -3,6 +3,7 @@ using UnityEngine;
 public class UIManager : MonoBehaviour
 {
     [SerializeField] GameObject playerHUD;
+    [SerializeField] GameObject characterStatsPanel;
 
     public static UIManager instance;
 
@@ -20,6 +21,7 @@ public class UIManager : MonoBehaviour
     {
         // Hide everything
         HidePlayerHUD();
+        HideCharacterStatsPanel();
     }
 
     #region PlayerHUD
@@ -31,5 +33,21 @@ public class UIManager : MonoBehaviour
     {
         playerHUD.SetActive(false);
     }
+    #endregion
+    #region Character Stat Panel
+    public void ShowCharacterStatsPanel()
+    {
+        characterStatsPanel.SetActive(true);
+    }
+    public void HideCharacterStatsPanel()
+    {
+        characterStatsPanel.SetActive(false);
+    }
+    public void ToggleCharacterStatsPanel()
+    {
+        if (characterStatsPanel.activeInHierarchy) HideCharacterStatsPanel();
+        else ShowCharacterStatsPanel();
+    }
+
     #endregion
 }
